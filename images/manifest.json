@@ -1,0 +1,103 @@
+[
+  {
+    "filename": "black_allblack_texture",
+    "path": "images/black_allblack_texture.jpg",
+    "url": "https://replicate.delivery/xezq/pHOHHkIpsaL5PFBaigY4uWZSnSNwBZ9cabgnQ5oTrPX2wcsF/tmp3fz973ek.jpg",
+    "status": "ok"
+  },
+  {
+    "filename": "black_layered_overcoat",
+    "status": "error",
+    "error": "ReplicateError Details:\nstatus: 429\ndetail: Request was throttled. Your rate limit for creating predictions is reduced to 6 requests per minute with a burst of 1 requests until you add a payment method. Your rate limit resets in ~5s."
+  },
+  {
+    "filename": "black_white_contrast",
+    "status": "error",
+    "error": "ReplicateError Details:\nstatus: 429\ndetail: Request was throttled. Your rate limit for creating predictions is reduced to 6 requests per minute with a burst of 1 requests until you add a payment method. Your rate limit resets in ~5s."
+  },
+  {
+    "filename": "black_white_reverse",
+    "status": "error",
+    "error": "ReplicateError Details:\nstatus: 429\ndetail: Request was throttled. Your rate limit for creating predictions is reduced to 6 requests per minute with a burst of 1 requests until you add a payment method. Your rate limit resets in ~4s."
+  },
+  {
+    "filename": "black_beige_pairing",
+    "status": "error",
+    "error": "ReplicateError Details:\nstatus: 429\ndetail: Request was throttled. Your rate limit for creating predictions is reduced to 6 requests per minute with a burst of 1 requests until you add a payment method. Your rate limit resets in ~4s."
+  },
+  {
+    "filename": "black_navy_overshirt",
+    "status": "error",
+    "error": "ReplicateError Details:\nstatus: 429\ndetail: Request was throttled. Your rate limit for creating predictions is reduced to 6 requests per minute with a burst of 1 requests until you add a payment method. Your rate limit resets in ~4s."
+  },
+  {
+    "filename": "minimal_person_style",
+    "status": "error",
+    "error": "ReplicateError Details:\nstatus: 429\ndetail: Request was throttled. Your rate limit for creating predictions is reduced to 6 requests per minute with a burst of 1 requests until you add a payment method. Your rate limit resets in ~4s."
+  },
+  {
+    "filename": "minimal_everyday",
+    "status": "error",
+    "error": "ReplicateError Details:\nstatus: 429\ndetail: Request was throttled. Your rate limit for creating predictions is reduced to 6 requests per minute with a burst of 1 requests until you add a payment method. Your rate limit resets in ~3s."
+  },
+  {
+    "filename": "minimal_elevated",
+    "status": "error",
+    "error": "ReplicateError Details:\nstatus: 429\ndetail: Request was throttled. Your rate limit for creating predictions is reduced to 6 requests per minute with a burst of 1 requests until you add a payment method. Your rate limit resets in ~3s."
+  },
+  {
+    "filename": "minimal_summer_linen",
+    "status": "error",
+    "error": "ReplicateError Details:\nstatus: 429\ndetail: Request was throttled. Your rate limit for creating predictions is reduced to 6 requests per minute with a burst of 1 requests until you add a payment method. Your rate limit resets in ~3s."
+  },
+  {
+    "filename": "bm_core_black",
+    "status": "error",
+    "error": "ReplicateError Details:\nstatus: 429\ndetail: Request was throttled. Your rate limit for creating predictions is reduced to 6 requests per minute with a burst of 1 requests until you add a payment method. Your rate limit resets in ~3s."
+  },
+  {
+    "filename": "bm_elevated_turtleneck",
+    "status": "error",
+    "error": "ReplicateError Details:\nstatus: 429\ndetail: Request was throttled. Your rate limit for creating predictions is reduced to 6 requests per minute with a burst of 1 requests until you add a payment method. Your rate limit resets in ~3s."
+  },
+  {
+    "filename": "bm_summer_linen",
+    "status": "error",
+    "error": "ReplicateError Details:\nstatus: 429\ndetail: Request was throttled. Your rate limit for creating predictions is reduced to 6 requests per minute with a burst of 1 requests until you add a payment method. Your rate limit resets in ~2s."
+  },
+  {
+    "filename": "card_black_minimal",
+    "status": "error",
+    "error": "ReplicateError Details:\nstatus: 429\ndetail: Request was throttled. Your rate limit for creating predictions is reduced to 6 requests per minute with a burst of 1 requests until you add a payment method. Your rate limit resets in ~2s."
+  },
+  {
+    "filename": "card_black_streetwear",
+    "status": "error",
+    "error": "ReplicateError Details:\nstatus: 429\ndetail: Request was throttled. Your rate limit for creating predictions is reduced to 6 requests per minute with a burst of 1 requests until you add a payment method. Your rate limit resets in ~2s."
+  },
+  {
+    "filename": "card_black_business",
+    "status": "error",
+    "error": "ReplicateError Details:\nstatus: 429\ndetail: Request was throttled. Your rate limit for creating predictions is reduced to 6 requests per minute with a burst of 1 requests until you add a payment method. Your rate limit resets in ~2s."
+  },
+  {
+    "filename": "card_white_outfit",
+    "status": "error",
+    "error": "ReplicateError Details:\nstatus: 429\ndetail: Request was throttled. Your rate limit for creating predictions is reduced to 6 requests per minute with a burst of 1 requests until you add a payment method. Your rate limit resets in ~2s."
+  },
+  {
+    "filename": "card_minimal_style",
+    "status": "error",
+    "error": "ReplicateError Details:\nstatus: 429\ndetail: Request was throttled. Your rate limit for creating predictions is reduced to 6 requests per minute with a burst of 1 requests until you add a payment method. Your rate limit resets in ~1s."
+  },
+  {
+    "filename": "card_date_outfit",
+    "status": "error",
+    "error": "ReplicateError Details:\nstatus: 429\ndetail: Request was throttled. Your rate limit for creating predictions is reduced to 6 requests per minute with a burst of 1 requests until you add a payment method. Your rate limit resets in ~1s."
+  },
+  {
+    "filename": "card_beige_minimal",
+    "status": "error",
+    "error": "ReplicateError Details:\nstatus: 429\ndetail: Request was throttled. Your rate limit for creating predictions is reduced to 6 requests per minute with a burst of 1 requests until you add a payment method. Your rate limit resets in ~1s."
+  }
+]
