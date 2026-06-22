@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zh155586.github.io/outfit-system/sitemap.xml
